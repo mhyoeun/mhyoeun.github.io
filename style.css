@@ -1,0 +1,16 @@
+body {
+    background: #111218;
+    color: #e5e5e5;
+    text-align: center;
+    font-family: sans-serif;
+    padding-top: 200px;
+}
+
+h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+}
+
+p {
+    opacity: 0.6;
+}
